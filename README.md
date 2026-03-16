@@ -34,8 +34,8 @@ The rotary encoder and buttons send commands such as play/pause, next track, and
 
 | Part | Quantity | Estimated Cost |
 |-----|-----|-----|
-| Front Case | 1 | $5 |
-| Back Cover | 1 | $5 |
+| Front Case | 1 | $1 |
+| Back Cover | 1 | $1 |
 
 Both printed parts are included together in a single `.step` file in the repository to make printing easier.
 
@@ -53,4 +53,4 @@ Both printed parts are included together in a single `.step` file in the reposit
 | Jumper Wires | 1 pack | Used to connect the components | $3.00 | $3.00 |
 | USB Cable | 1 | Used to power and program the ESP32 | $3.00 | $3.00 |
 
-**Estimated Total Cost: ~$38.70**
+**Estimated Total Cost: ~$30.70**
