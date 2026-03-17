@@ -45,14 +45,13 @@ Both printed parts are included together in a single `.step` file in the reposit
 
 | Part | Quantity | Description | Link | Cost | Total |
 |-----|-----|-----|-----|-----|-----|
-| ESP32 Development Board | 1 | Main microcontroller used to run the project | https://www.aliexpress.com/item/4000079648503.html | $3.61 | $3.61 |
-| ST7735 TFT LCD Display | 1 | Small SPI display used to show track information | https://www.aliexpress.com/item/32996979276.html | $2.49 | $2.49 |
-| Rotary Encoder (with knob) | 1 | Used for volume or menu control | https://www.aliexpress.com/item/32587006925.html | $0.60 | $0.60 |
-| Momentary Push Buttons | 3 | Used for playback controls | https://www.aliexpress.com/item/32982255849.html | $1.53 | $1.53 |
-| Keycaps | 3 | Caps for the push buttons | https://www.aliexpress.com/item/1005001628106767.html | $3.27 | $3.27 |
-| Jumper Wires | 1 pack | Used to connect the components | https://www.aliexpress.com/item/4000005166772.html | $1.00 | $1.00 |
-| USB Cable | 1 | Used to power and program the ESP32 | https://www.aliexpress.com/item/32834219764.html | $4.27 | $4.27 |
+| ESP32 Development Board | 1 | Main microcontroller used to run the project | https://a.co/d/02p5Ifkj | $10 | $10 |
+| ST7735 TFT LCD Display | 1 | Small SPI display used to show track information | https://a.co/d/06It8hal | $9.95 | $9.95 |
+| Rotary Encoder (with knob) | 1 | Used for volume or menu control | https://a.co/d/0dQ7lI8W | $8.89 | $8.89 |
+| Mechanical Switches | 3 | Used for playback controls | https://a.co/d/06fXIy8R | $9.99 | $9.99 |
+| Keycaps | 3 | Caps for the push buttons | https://a.co/d/0duP7i0d | $3.18 | $3.18 |
+| Jumper Wires | 1 pack | Used to connect the components | https://a.co/d/01FAON4C | $7.00 | $7.00 |
 
-**Estimated Electronics Cost: ~$16.77**
+**Estimated Electronics Cost: ~$45.80**
 
-**Estimated Total Cost (including printed parts): ~$18.77**
+**Estimated Total Cost (including printed parts): ~$47.87**
