@@ -1,0 +1,3 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"ST7735 TFT LCD Display","Small SPI display used to show track information",1,9.95,"https://a.co/d/06It8hal","Amazon"
+"ESP32 Development Board","This is the main microcontroller that runs the program. It connects to WiFi, reads the buttons and encoder, and updates the display. The ESP32 also handles communication with Spotify.",1,10.00,"https://a.co/d/02p5Ifkj","Amazon"
