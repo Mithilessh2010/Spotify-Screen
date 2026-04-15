@@ -19,7 +19,10 @@ The parts are designed to be easy to print and assemble.
 <img width="909" height="662" alt="image" src="https://github.com/user-attachments/assets/d3e5170e-04d7-4ed3-b15a-ee222a0febc4" />
 
 ---
+# Wiring
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f032649-cbc5-4113-a05b-0e6b56e37144" />
 
+---
 # Firmware
 
 The firmware runs on the ESP32 and handles the display updates and button inputs. It communicates with Spotify and updates the screen with the current track information.
